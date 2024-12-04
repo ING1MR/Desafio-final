@@ -1,0 +1,49 @@
+.post {
+    background-image: url("../../assets/banner.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 87vh;
+    align-items: center;
+    display: flex;
+  }
+  .post h2 {
+    color: white;
+    width: 29vw;
+    font-size: 40px;
+    margin-left: 150px;
+  }
+  
+  .devoDoar {
+    height: 90vh;
+  }
+  .devoDoar div {
+    height: 15vh;
+    display: flex;
+    align-items: center;
+  }
+  .devoDoar div h2 {
+    font-size: 30px;
+    color: #005695;
+    margin-left: 60px;
+  }
+  
+  .boxCard {
+    display: flex;
+    height: 60vh;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  .boxCard article {
+    width: 20%;
+    height: 80%;
+    background-color: rgba(1, 87, 148, 0.3019607843);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 10px;
+  }
+  .boxCard article p {
+    text-align: center;
+  }/*# sourceMappingURL=inicio.module.css.map */
