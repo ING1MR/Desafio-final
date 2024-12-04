@@ -14,7 +14,7 @@ export default function header(){
                 <img src={Logo} alt="Imagem de um livro" />
                 <h1>Livros Vai na Web</h1>
             </section>
-            <nav className={S.BoxMenu}>
+            <nav className={S.menu}>
                 <ul>
                 <li><Link to="/">Inicio</Link></li>
                 <li><Link to="/doados">Livros Doados</Link></li>
